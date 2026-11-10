@@ -4,6 +4,8 @@ React (Vite) ile yazılmış çok sayfalı alışkanlık takip uygulaması: gün
 
 ![Bugün](docs/bugun.png)
 
+**GitHub:** https://github.com/b4tukk/aliskanlik-takip-react
+
 **Canlı bağlantı:** https://b4tukk.github.io/aliskanlik-takip-react/ _(GitHub Actions ile otomatik yayınlanır)_
 
 ## Özellikler
